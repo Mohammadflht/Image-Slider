@@ -1,2 +1,2 @@
 #Image-Slider
-** an image slider create with just HTML and CSS ** 
+**an image slider create with just HTML and CSS** 
